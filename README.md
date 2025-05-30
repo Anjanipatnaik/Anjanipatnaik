@@ -1,7 +1,7 @@
 # Hi there! I'm Anjani Patnaik
 
 ## 🚀 About Me
-I'm a 3rd-year Computer Science student passionate about coding, web development, and problem-solving. Currently, I'm on a journey to become a Software Development Engineer (SDE) and aiming for a decent job.
+I'm a final year Computer Science student passionate about coding, web development, and problem-solving. Currently, I'm on a journey to become a Software Development Engineer (SDE) and aiming for a decent job.
 
 ## 💻 Skills & Interests
 - **Programming Languages:** Python, HTML, CSS
